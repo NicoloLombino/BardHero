@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7383ce2d02363b4ca43b3bc006259ff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LINCONS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84726a72bc8b4fd429944f1903c0744c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
